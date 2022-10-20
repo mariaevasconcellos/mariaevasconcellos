@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @mariaevasconcellos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Olá, “Eu sou a Maria Vasconcellos iniciante em TI!”
+<div align="center">
+  <a href="https://github.com/mariaevasconcellos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaevasconcellos&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaevasconcellos&layout=compact&langs_count=7&theme=jolly"/>
+</div>
 
-<!---
-mariaevasconcellos/mariaevasconcellos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Maria-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">    
+
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/mariaevp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mariaevasconcellosp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-vasconcellos-8a5a88106/i-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/mariavpando-8a5a88106/i-45875016a" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://www.facebook.com/mariavasconcellosp-8a5a88106/i-45875016a" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/111609562/196792427-e94cc240-23db-4f31-9ea7-fa613b0c9465.gif)
